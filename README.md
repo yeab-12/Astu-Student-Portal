@@ -45,10 +45,12 @@ Dynamic Web Project/
 ## 🖼 Screenshots
 
 ### 🔹 Screenshot 1 – Application Home Page
-![Screenshot 1](screenshots/screenshot1.png)
+<img width="1903" height="920" alt="ASTU-portal" src="https://github.com/user-attachments/assets/4d76f302-8986-46b5-9561-b6fade123a6d" />
+
 
 ### 🔹 Screenshot 2 – Application Feature View
-![Screenshot 2](screenshots/screenshot2.png)
+<img width="1900" height="918" alt="ASTU-portal_home" src="https://github.com/user-attachments/assets/6fc931c0-d000-479a-975d-83aa83e3d2f6" />
+
 
 > 📌 *Note:* Screenshots show the running application in the browser after deployment.
 
